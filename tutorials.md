@@ -1,11 +1,10 @@
-
 ---
 layout: page
-title: "Blog"
-subtitle: Geology / Remote Sensing and AI / Flutter 
+title: "Hi, I'm Dean"
+subtitle: R-Shiny Expert / Software Tool Builder / Extreme Traveller
 css: "/css/index.css"
 meta-title: "Dean Attali - R-Shiny consultant"
-meta-description: "Geologist with research in Remote Sensing and Artificial Inteligence."
+meta-description: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
 ---
 
 <div class="list-filters">
