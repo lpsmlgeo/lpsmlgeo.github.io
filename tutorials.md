@@ -6,6 +6,7 @@ subtitle: Geology / Remote Sensing and AI / Flutter
 css: "/css/index.css"
 meta-title: "Dean Attali - R-Shiny consultant"
 meta-description: "Geologist with research in Remote Sensing and Artificial Inteligence."
+---
 
 <div class="list-filters">
   <a href="/" class="list-filter filter-selected">All Posts</a>
