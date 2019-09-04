@@ -11,7 +11,7 @@ meta-description: "Geologist with research in Remote Sensing and Artificial Inte
 <div class="list-filters">
   <a href="/" class="list-filter filter-selected">All Posts</a>
   <a href="/popular" class="list-filter">Remote Sensing</a>
-  <a href="/tutorials" class="list-filter">Flutter</a>
+   <span class="list-filter filter-selected">Flutter</span>
   <a href="/tags" class="list-filter">Index</a>
 </div>
 
