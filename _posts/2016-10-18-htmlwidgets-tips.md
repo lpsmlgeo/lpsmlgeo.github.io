@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to write a useful htmlwidgets in R: tips and walk-through a real example"
-tags: [professional, rstats, r-bloggers, shiny, tutorial]
+title: "Tuturial Flutter"
+tags: [flutter]
 date: 2016-10-18 11:05:00 -0700
 permalink: /blog/htmlwidgets-tips/
 layout: post
