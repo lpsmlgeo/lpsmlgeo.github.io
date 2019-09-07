@@ -1,8 +1,8 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
-tags: [books, shakespeare, test]
+title: Remote Sesing for Machine and Deep Learning
+subtitle: Available datasets and how you can use them  
+tags: [AI, Remote Sensing, Datasets]
 ---
 
 To be, or not to be--that is the question:
