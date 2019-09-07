@@ -2,7 +2,7 @@
 layout: post
 title: Remote Sesing for Machine and Deep Learning
 subtitle: Available datasets and how you can use them  
-tags: [AI, Remote Sensing, Datasets]
+tags: [AI, Remote Sensing, Datasets, rms]
 ---
 
 To be, or not to be--that is the question:
