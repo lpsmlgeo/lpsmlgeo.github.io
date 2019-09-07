@@ -8,7 +8,7 @@ meta-description: "Geologist with research in Remote Sensing and Artificial Inte
 
 ---
 #### About Me
-I'm a master student at University of São Paulo (USP), broadly interested in Geology, Remote Sensing and Machine Learning. My research involves automatic detection of landslides scars with deeplearning.
+I'm a master student at University of São Paulo (USP), broadly interested in Geology, Remote Sensing and Machine Learning. My research involves automatic detection of landslides scars with deep learning.
 
 I am currently a Research Scientist at SPAMlab , 
 
