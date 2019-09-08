@@ -12,9 +12,7 @@ Classificação de Cenas
 | Nome | Fonte | Descrição | Resolução Espacial | 
 | ------------- | ------------- | --------------------------- | ------------- |
 | [UC Merced Land Use Dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html) |[Yang & Newsam 2010](https://www.researchgate.net/publication/221589425_Bag-of-visual-words_and_spatial_extensions_for_land-use_classification)  | 21 categorias de uso/ocupação do solo com 100 imagens (256x256px) por categoria. | 0.30m | 
-
 | [SAT-4 and SAT-6 airborne datasets](https://csc.lsu.edu/~saikat/deepsat/) | [Basu et al. 2015](https://arxiv.org/abs/1509.03602)  | 6 categorias de uso/ocupação do solo com 400 mil imagens (28x28px) por categoria com 4 bandas (RGBNIR) extraídas de *2009 National Agriculture Imagery Program (NAIP)* | 1.0m | 
-
 | [EuroSat](http://madm.dfki.de/downloads) | [Helber et al. 2017](https://arxiv.org/abs/1709.00029)  | 10 categorias de uso/ocupação do solo com 27 mil imagens (64x64px) por categoria com 3 ou 16 bandas do satélite Sentinel 2 | 10m | 
 
 
