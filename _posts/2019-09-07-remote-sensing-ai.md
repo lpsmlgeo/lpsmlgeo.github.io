@@ -10,7 +10,7 @@ O aprendizado de máquina, em especial o deep learning, é uma ferramenta com gr
 Classificação de Cenas
 
 | Nome | Fonte | Descrição | Resolução Espacial | 
-| ------------- | ------------- | --------------------------- | ------------- | ------------- |
+| ------------- | ------------- | --------------------------- | ------------- |
 | [UC Merced Land Use Dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html) | Paper: [Yang & Newsam 2010](https://www.researchgate.net/publication/221589425_Bag-of-visual-words_and_spatial_extensions_for_land-use_classification)  | 21 categorias de uso/ocupação do solo com 100 imagens (256x256px) por categoria. | 0.30m | 
 
 
