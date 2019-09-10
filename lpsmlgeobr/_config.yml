@@ -21,7 +21,7 @@ description: Making Remote Sensing Easier
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog/"
-  Projects:
+  Projetos:
     #- Mestrado: "http://deanattali.com/beautiful-jekyll/"
   EN: "lpsmlgeo.github.io"
 
