@@ -17,7 +17,7 @@ I am currently a Research Scientist at The Spatial Analysis And Modelling Lab [(
 
 - Email -  <lpsoares@usp.br> ou <lpedrosasoares@gmail.com>
 
-- [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8568837U3)
+- [Lattes (Official Brazilian Scientific CV)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8568837U3&idiomaExibicao=2)
 
 - [ORCID](https://orcid.org/0000-0002-6980-597X)
 
