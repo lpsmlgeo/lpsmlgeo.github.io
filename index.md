@@ -35,7 +35,7 @@ I am currently a Research Scientist at The Spatial Analysis And Modelling Lab [(
 
 - **2015 - 2016** - Exchange Student at University of Colorodo, Boulder.
 
-- **2013 - 2018** -  Geology Bachelor Degree - Univeristy of Brasília (IGc-UnB).
+- **2013 - 2018** -  Geology Bachelor Degree - University of Brasília (IGc-UnB).
 
 
 #### Publications ####
