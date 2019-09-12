@@ -29,9 +29,12 @@ I am currently a Research Scientist at The Spatial Analysis And Modelling Lab [(
 ### Curriculum Vitae ###
 
 
-**2019 - now** - Master Degree at University of São Paulo (USP).  
+**2019 - now** - Master Degree at University of São Paulo (USP).
+
 **2016 - 2016** - Summer Internship at Colorado School of Mines.
+
 **2015 - 2016** - Exchange Student at University of Colorodo, Boulder.
+
 **2013 - 2018** -  Geology Bachelor Degree - Univeristy of Brasília (IGc-UnB).
 
 
