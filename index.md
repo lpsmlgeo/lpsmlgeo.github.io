@@ -35,7 +35,7 @@ I am currently a Research Scientist at The Spatial Analysis And Modelling Lab [(
 **2013 - 2018** -  Geology Bachelor Degree - Univeristy of Brasília (IGc-UnB).
 
 
-## Publications ##
+#### Publications ####
 
 
 - RIBEIRO, T. G. R. ; DOMINGUES, G. C. O. ; SOARES, L. P. ; SOUZA, A. C. . CONTEXTO ESTRUTURAL NO DESENVOLVIMENTO DA CAVERNA TAMBORIL, UNAÍ-MG. In: 34º Congresso Brasileiro de Espeleologia, 2017, Ouro Preto - MG. Anais 34° Congresso Brasileiro de Espeleologia. Campinas - SP: Sociedade Brasileira de Espeleologia - SBE, 2017. v. 1. p. 297-300.
