@@ -19,11 +19,11 @@ I am currently a Research Scientist at The Spatial Analysis And Modelling Lab [(
 
 - [Lattes (Official Brazilian Scientific CV)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8568837U3&idiomaExibicao=2)
 
-- [ORCID](https://orcid.org/0000-0002-6980-597X)
+[//]: <> (- [ORCID](https://orcid.org/0000-0002-6980-597X))
 
 - [Google Scholar](https://scholar.google.com.br/citations?user=grqWRP4AAAAJ&hl=en&authuser=2)
 
-- [ReserachID](https://publons.com/researcher/3069730/lucas-soares/)
+[//]: <> (- [ReserachID](https://publons.com/researcher/3069730/lucas-soares/))
 
 
 ### Curriculum Vitae ###
