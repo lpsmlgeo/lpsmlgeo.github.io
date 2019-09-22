@@ -15,7 +15,7 @@ I am currently a Research Scientist at The Spatial Analysis And Modelling Lab [(
 ### Contacts ###
 
 
-- Email -  <lpsoares@usp.br> ou <lpedrosasoares@gmail.com>
+- Email -  <lpsoares@usp.br> or <lpedrosasoares@gmail.com>
 
 - [Lattes (Official Brazilian Scientific CV)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8568837U3&idiomaExibicao=2)
 
@@ -33,7 +33,7 @@ I am currently a Research Scientist at The Spatial Analysis And Modelling Lab [(
 
 - **2016 - 2016** - Summer Internship at Colorado School of Mines.
 
-- **2015 - 2016** - Exchange Student at University of Colorodo, Boulder.
+- **2015 - 2016** - Exchange Student at University of Colorado, Boulder.
 
 - **2013 - 2018** -  Geology Bachelor Degree - University of Brasília (IGc-UnB).
 
