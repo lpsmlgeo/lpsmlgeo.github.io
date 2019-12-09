@@ -13,11 +13,11 @@ The background class has pixel value 0 and the interest class value of 1.
 
 - [0. Import the libraries](#0-load-the-libraries) 
 
-- [1. load .tif image file](#1-load_.tif-image-file)
+- [1. load .tif image file](#1-load-.tif-image-file)
 
 - [2. Load Shapefile or GeoJson](#2-load-shapefile-or-geojson)
 
-- [3. Check if the Coordinate Reference System (CRS) are the same](#3-verify-the-coordinate-reference-system-crs))
+- [3. Check if the Coordinate Reference System (CRS) are the same](#3-verify-the-coordinate-reference-system-crs)
 
 - [4. Generate Binary Mask](#4-generate-the-binary-mask)
 
