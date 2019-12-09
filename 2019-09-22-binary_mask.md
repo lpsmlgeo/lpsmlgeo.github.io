@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Binary mask with Python
-subtitle: Converting shapefiles into binary raster
+title: Converting Shapefiles into a Binary Raster
+subtitle: 
 tags: [AI, Python, rms, Remote Sensing, Binary Mask, Tutorial]
 ---
 
