@@ -6,7 +6,6 @@ tags: [AI, Python, rms, Remote Sensing, Binary Mask, Tutorial]
 ---
 
 This tutorial shows how to generate a binary raster file, broadly used in semantic segmentation problems, with python.
-The background class has pixel value 0 and the interest class value of 1. 
 
 ![](/img/binary_mask.gif)
 
@@ -15,7 +14,7 @@ The background class has pixel value 0 and the interest class value of 1.
 
 - [0. Import the libraries](#0-load-the-libraries) 
 
-- [1. load .tif image file](#1-load-.tif-image-file)
+- [1. load .tif image file](#1-load-tif-image-file)
 
 - [2. Load Shapefile or GeoJson](#2-load-shapefile-or-geojson)
 
@@ -51,11 +50,11 @@ import cv2
 import matplotlib.pyplot as plt
 
 ```
-&nbsp
+&nbsp;
 
 #### 1. load .tif image file
 
-Define the raster_path variable with the path for the .tif image that will serve as the base dimensions for the binary mask.
+Define the raster_path variable with the path to the .tif image. The binary raster will have the same dimensions as this imagem.
 
 ``` python
 
@@ -72,7 +71,7 @@ with rasterio.open(raster_path, "r") as src:
 #### 2. Load Shapefile or GeoJson
 
 
-Define the shape_path with the path where the shapefile or the geojson file are located.
+Define the shape_path with the path to the shapefile or the geojson file.
 
 
 ``` python
@@ -88,7 +87,7 @@ train_df = gpd.read_file(shape_path)
 #### 3.Verify the Coordinate Reference System (CRS)
 
 
-The CRS of the image and shapefile must be the same. If the aren`t, use QGIS to convert both to the same CRS.
+The CRS of the image and the shapefile must be the same. If the aren`t, use QGIS to convert both to the same CRS.
 
 ```python
  
