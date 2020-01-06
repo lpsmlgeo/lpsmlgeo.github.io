@@ -87,7 +87,7 @@ train_df = gpd.read_file(shape_path)
 #### 3.Verify the Coordinate Reference System (CRS)
 
 
-The CRS of the image and the shapefile must be the same. If the aren`t, use QGIS to convert both to the same CRS.
+The CRS of the image and the shapefile must be the same. If they aren`t, use QGIS to convert both files to the same CRS.
 
 ```python
  
