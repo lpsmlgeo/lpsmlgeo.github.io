@@ -133,7 +133,7 @@ for num, row in train_df.iterrows():
 mask = rasterize(shapes=poly_shp,
                  out_shape=im_size)
 
-# Plotar a máscara gerada
+# Plot the mask
 
 plt.figure(figsize=(15,15))
 plt.imshow(mask)
@@ -145,10 +145,10 @@ plt.imshow(mask)
 
 ```python
 mask = mask.astype("uint16")
-arquivo_salvar = "/Users/.../mascaras/train.tif"
+save_path = "/Users/.../mascaras/train.tif"
 bin_mask_meta = src.meta.copy()
 bin_mask_meta.update({'count': 1})
-with rasterio.open(arquivo_salvar, 'w', **bin_mask_meta) as dst:
+with rasterio.open(save_path, 'w', **bin_mask_meta) as dst:
     dst.write(mask * 255, 1)
 
 ```
@@ -195,7 +195,7 @@ def generate_mask(raster_path, shape_path, output_path, file_name):
     
     #Verify crs
     if train_df.crs != src.crs:
-        print(" crs do Raster : {} e Crs do Vetor : {}.\n Converta para o mesmo Sistema de Coordenadas de Referência!".format(src.crs,train_df.crs))
+        print(" Raster crs : {}, Vector crs : {}.\n Convert vector and raster to the same CRS.".format(src.crs,train_df.crs))
         
         
     #Function that generates the mask
